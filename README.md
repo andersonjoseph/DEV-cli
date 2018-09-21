@@ -21,11 +21,11 @@ Options:
 
 ## Screenshots
 
-![](img\ss1.png)
+![screenshot](img/ss1.PNG)
 
-![](img\ss2.png)
+![screenshot](img/ss2.PNG)
 
-![](img\ss3.png)
+![screenshot](img/ss3.PNG)
 
 ## Contributing
 
@@ -37,4 +37,4 @@ Contributions are welcome from anyone and everyone. To contribute:
 4. Push your work back up to your fork
 5. Submit a Pull request so that we can review your changes
 
-    Note: Be sure to merge the latest from "upstream" before making a pull request!
+        Note: Be sure to merge the latest from "upstream" before making a pull request!
