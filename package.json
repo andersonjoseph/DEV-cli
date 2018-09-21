@@ -1,0 +1,27 @@
+{
+  "name": "dev-cli",
+  "version": "1.0.0",
+  "description": "A CLI for DEV.to",
+  "main": "DEV-cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint .",
+    "start": "node DEV-cli.js"
+  },
+  "author": "Anderson Joseph @andersonjoseph",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.18.0",
+    "html2plaintext": "^2.0.1",
+    "inquirer": "^6.2.0",
+    "inquirer-select-line": "^1.1.1",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "turndown": "^5.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.0",
+    "eslint-config-google": "^0.10.0"
+  }
+}
